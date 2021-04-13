@@ -26,8 +26,6 @@ void SubString(SString S,SString sub,int pos,int len);
 
    
 
-
-
 include "SString.h"
 void InitString(SString S)
 {
